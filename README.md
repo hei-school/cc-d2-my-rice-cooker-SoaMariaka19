@@ -1,4 +1,4 @@
-## Rice Cooker Console Manager
+# Rice Cooker Console Manager
 
 ## Description
 The Rice Cooker Console Manager is a feature-rich command-line program implemented in TypeScript, Rust, Go, and Ruby. This console application streamlines the rice-cooking process, offering functionalities such as adding rice and water, managing power supply, temperature settings, and providing real-time updates on the cooking process. While TypeScript is currently the only fully functional implementation, work is underway to bring the same experience in Rust, Go, and Ruby.
