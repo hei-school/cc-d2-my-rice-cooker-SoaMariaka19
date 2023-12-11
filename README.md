@@ -1,1 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
+## Typescript
+
+### Installation
+1. Make sure you have Node.js installed on your machine.
+2. Clone this repository with the following command:
+   ```bash
+   git clone https://github.com/hei-school/cc-d2-my-rice-cooker-SoaMariaka19.git
+3. Go to the project directory:
+   ```bash
+   cd cc-d2-my-rice-cooker-SoaMariaka19
+
+4. Compile the program:
+   ```bash
+   tsc riceCooker.ts
+
+5. Run the program:
+   ```bash
+   node riceCooker.js
